@@ -9,10 +9,10 @@ MATLAB'de **ResNet-50 tabanlı, 2 aşamalı transfer learning** ile yemek görü
 | **Veri seti** | Food-11 (11 yemek kategorisi) |
 | **Model** | ResNet-50 (ImageNet ön eğitimli), transfer learning |
 | **Girdi boyutu** | 224 × 224 × 3 |
-| **Eğitim / Doğrulama / Test** | XXXX / XXXX / XXXX görüntü |
-| **Test doğruluğu (Accuracy)** | %XX.XX |
-| **Macro F1 / Weighted F1** | %XX.XX / %XX.XX |
-| **Ortalama ROC AUC** | 0.XXX |
+| **Eğitim / Doğrulama / Test** | 9.866 / 3.430 / 3.347 görüntü |
+| **Test doğruluğu (Accuracy)** | %90.56 |
+| **Macro F1 / Weighted F1** | %91.1 / %90.6 |
+| **Ortalama ROC AUC** | 0.994 |
 
 ##  Sınıflar
 
